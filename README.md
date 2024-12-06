@@ -5,6 +5,9 @@
 
 <p id="description">The "Life Expectancy" Power BI project analyzes global data to uncover trends disparities and factors influencing life expectancy across countries and regions. It integrates interactive visuals and key metrics enabling users to explore correlations between socioeconomic indicators healthcare access and demographic shifts for informed decision-making and deeper insights into population health</p>
 
+
+<h2> Objective </h2>
+  
 <h2>Project Screenshots:</h2>
 
 <img src="https://i.postimg.cc/cJpmhp6V/Screenshot-2024-12-05-165003.png" alt="project-screenshot" width="960" height="640/">
